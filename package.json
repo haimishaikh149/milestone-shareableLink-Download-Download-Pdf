@@ -4,10 +4,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "[my-framework] build --output public"
+    "build": "next build" // Replace [my-framework] with 'next' for Next.js projects
   },
   "author": "",
   "license": "ISC",
   "description": ""
 }
+
 
